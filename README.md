@@ -47,7 +47,7 @@ This project was implemented learning tutorial from [Google Codelab](https://cod
 ![alt text](https://github.com/nirajan-mandal/Car_DataSet/blob/main/prediction.png "Prediction")
 
 ## Intro to TensorFlow for Deep Learning (UDACITY)
-+ Python codes usign Google Colab and clooud GPU
++ Python codes usign Google Colab and clooud GPU. The codes and lessons are [here](https://github.com/nirajan-mandal/Intro-to-TensorFlow-for-Deep-Learning-UDACITY).
 
 
 
