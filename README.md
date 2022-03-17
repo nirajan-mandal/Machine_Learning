@@ -27,6 +27,12 @@ Batch, Epoch | Training time (min) | Iteration/s | Loss | Accuracy
 100, 3 | 60 (20min/Epoch) | 6 | 0.109 | 0.75
 100, 15 | 300 (20min/Epoch) | 5 | 0.024 | 0.76
 
++ Results using uses Google's cloud GPU
+
+Batch, Epoch | Training time (min) | Iteration/s | Loss | Accuracy
+--- | --- | --- | --- | ---
+100, 25 | 6.7 (16s/Epoch) | NA | 0.5 | 0.7
+
 Cat | Dog 
 --- | --- 
 ![alt text](https://github.com/nirajan-mandal/Machine_Learning/blob/main/cat_2.png "Cat") | ![alt text](https://github.com/nirajan-mandal/Machine_Learning/blob/main/dog_1.png "Dog") 
